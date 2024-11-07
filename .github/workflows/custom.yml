@@ -5,5 +5,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: SteveWeber777/custom-action@main
+      - uses: SteveWeber777/CustomAction@main
       
